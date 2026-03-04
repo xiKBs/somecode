@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+import qrcode 
+
+# Data jo QR me encode hoga
+data = input("[*]type what you want to encode in the QRCODE: ")
+# This is QR file
+qr = qrcode.make(data)
+
+save_name = input("[*]Type file name that will save: ")
+
+# Image save hoga 
+qr.save(save_name)
+
+
+print(f"QR code {save_name}  saved successfully!")
