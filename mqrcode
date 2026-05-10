@@ -14,8 +14,16 @@ if data == '':
 qr = qrcode.make(data)
 
 save_name = input("[*]Type file name that will save: ")
-save_name=f'{save_name}.jpg'
 
+if save_name == '':
+    print("""file name cannot be empty.
+try again...""")
+    save_name = input("[*]type again: ")
+    if save_name == '':
+        print("You fucked up")
+        exit()
+
+save_name=f'{save_name}.jpg'
 
 # Image save hoga 
 qr.save(save_name)
