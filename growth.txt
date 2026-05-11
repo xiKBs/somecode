@@ -1,6 +1,6 @@
 #!/bin/env
 
-📊 Growth Table (₹5,000 → ₹5,00,000)
+📊 Growth Table (₹5,000 → ₹5,00,000)     #44%
 Month      Amount (₹ approx)
 start      5,000
 1          7,200
