@@ -6,7 +6,7 @@ start      5,000
 1          7,200
 2          10,400     📌Target        📌actual
 3          15,000     #april            6800
-4          21,600     #may
+4          21,600     #may              6600
 5          31,000     #jun
 6          44,700     #july
 7          64,500     #aguest
