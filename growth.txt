@@ -7,8 +7,8 @@ start      5,000
 2          10,400     📌Target        📌actual
 3          15,000     #april            6800
 4          21,600     #may              6600
-5          31,000     #jun
-6          44,700     #july
+5          31,000     #jun        #16/06/2026
+6          44,700     #july       #capital wipe out
 7          64,500     #aguest
 8          93,000     #sepetember
 9          1,34,000   #october
@@ -18,3 +18,6 @@ start      5,000
 12.4       ~5,00,000 ✅#feb
 
 laddu -10kg
+
+
+#starting again:- 22/06/2026
